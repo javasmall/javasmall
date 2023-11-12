@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigsai
 - 👀 I’m interested in Java、数据结构与算法
-- 🌱 I’m currently 研三马上毕业啦
+- 🌱 I’m currently 在开水厂搬砖
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 公众号：bigsai
 
